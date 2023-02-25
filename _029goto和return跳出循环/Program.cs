@@ -25,7 +25,7 @@ namespace _029goto和return跳出循环
                     return;//用来终止方法，表示方法运行结束，剩余代码不执行
                 }
             }
-            Console.WriteLine("跳出循环了");//语句没执行
+            //Console.WriteLine("跳出循环了");//语句没执行
         }
     }
 }

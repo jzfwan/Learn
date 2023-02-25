@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_045每天少一半_1_第N天只剩1_一共有几</RootNamespace>
+  </PropertyGroup>
+
+</Project>

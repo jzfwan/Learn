@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_056递归求5阶乘_定义结构类型_四舍五入运算</RootNamespace>
+  </PropertyGroup>
+
+</Project>
